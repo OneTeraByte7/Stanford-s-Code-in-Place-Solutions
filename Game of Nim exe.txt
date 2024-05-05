@@ -1,0 +1,14 @@
+There are 20 stones left.
+Player 1 would you like to remove 1 or 2 stones? 1
+
+There are 19 stones left.
+Player 2 would you like to remove 1 or 2 stones? 1
+
+There are 18 stones left.
+Player 1 would you like to remove 1 or 2 stones? 17
+
+There are 1 stones left.
+Player 2 would you like to remove 1 or 2 stones? 1
+
+Game over
+
