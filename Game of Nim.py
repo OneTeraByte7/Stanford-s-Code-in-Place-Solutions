@@ -5,46 +5,36 @@
     """
 
 
-start = 20
-
 def main():
-    Milestone1()
-    Milestone2()
-    Milestone3()
+    TOTAL_STONES = 20
+    Remove = 0
 
-def Milestone1():
-    remaining = start
-    while remaining > 0:
-        print("There are" + str(remaining) +"stones left.")
-        take = int(input("Would you like to remove 1 or 2 stones"))
-        remaining -= take
-    
-def Milestone2():
-    remaining = start
-    turn = 1
-    while remaining > 0:
-        print("There are" + str(remaining) +"stones left.")
-        take = int(input("Player" + str(turn) + ", would you like to remove 1 or 2 stones"))
-        remaining -= take
+    while(True):
+        print('There are ' + str(TOTAL_STONES) + ' stones left')
+        print('Player 1 would you like to remove 1 or 2 stones? ', end = '')
+        while(Remove != 1 and Remove != 2):
+            Remove = int(input())
+            if Remove != 1 and Remove != 2:
+                Remove = int(input('Please enter 1 or 2: '))
+        TOTAL_STONES = TOTAL_STONES - Remove
+        Remove = 0
+        if TOTAL_STONES <=0:
+            print('\nPlayer 2 wins!')
+            break
 
-        if turn == 1:
-            turn = 2
-        else:
-            turn = 1
+        print('\nThere are ' + str(TOTAL_STONES) + ' stones left')
+        print('Player 2 would you like to remove 1 or 2 stones? ', end = '')
+        while(Remove != 1 and Remove != 2):
+            Remove = int(input())
 
-def Milestone3():
-    remaining = start
-    turn = 1
-    while remaining > 0:
-        print("There are" + str(remaining) +"stones left.")
-        take = int(input("Player" + str(turn) + ", would you like to remove 1 or 2 stones"))
-        while take < 1 or take > 2:
-            take = int(input("Please enter 1 or 2: "))
-        remaining -= take
+            if Remove != 1 and Remove != 2:
+                Remove = int(input('Please enter 1 or 2: '))
+        TOTAL_STONES = TOTAL_STONES - Remove
+        Remove = 0
+        print()
+        if TOTAL_STONES <=0:
+            print('Player 1 wins!')
+            break
 
-        if turn == 1:
-            turn = 2
-        else:
-            turn = 1
-
-    print("Player" + str(turn) + " wins!")
+if __name__ == '__main__':
+    main()
