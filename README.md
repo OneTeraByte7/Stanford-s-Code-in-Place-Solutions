@@ -1,4 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 
 Here Folks can find the solutions to every problem in Stanford's Code in Place Online Coding Program
 Detailed information can also be found in the same repo
