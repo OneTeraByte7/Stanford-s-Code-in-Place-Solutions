@@ -1,5 +1,5 @@
 <h3>Trophies</h3>
-"____________________________________________________________________________"
+<h5>_____________________________________________________________________</h5>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here Folks can find the solutions to every problem in Stanford's Code in Place Online Coding Program
