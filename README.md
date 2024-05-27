@@ -3,10 +3,9 @@
 Here Folks can find the solutions to every problem in Stanford's Code in Place Online Coding Program
 Detailed information can also be found in the same repo
 
-### Languages:
-| Python3 |
-|----------|----------|----------|-----|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|
+<h3>Languages:</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
+Python
 
 <h3>Acceptance Code in Place 2024</h3> 
 
