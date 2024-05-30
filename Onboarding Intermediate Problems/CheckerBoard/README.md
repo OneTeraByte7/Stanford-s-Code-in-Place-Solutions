@@ -11,3 +11,9 @@ Get Karel to create a checkerboard pattern of beepers inside an empty rectangula
 ![image](https://github.com/OneTeraByte7/Stanford-s-Code-in-Place-Solutions/assets/119783385/5dc0e070-adf0-4510-bd82-fbb5b2c1f6ea)
 
 <h4>This problem is hard: Try simplifying your solution with decomposition. Can you checker a single row/column? Make the row/column work for different widths/heights? Once you've finished a single row/column, can you make Karel fill two? Three? All of them? Incrementally developing your program in stages helps break it down into simpler parts and is a wise strategy for attacking hard programming problems.</h4>
+
+
+<h2>EXECUTION :</h2>
+
+https://github.com/OneTeraByte7/Stanford-s-Code-in-Place-Solutions/assets/119783385/9605a43f-c1f5-4475-8550-53e6c800df3e
+
