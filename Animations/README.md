@@ -6,4 +6,3 @@
 <h4>   -> pip install time</h4>
 <h4>   -> pip install random</h4>
 <h4>   -> pip install canvas</h4>
-![download](https://github.com/OneTeraByte7/Stanford-s-Code-in-Place-Solutions/assets/119783385/220b457e-60fb-4c0c-bb21-984795beeb27)
