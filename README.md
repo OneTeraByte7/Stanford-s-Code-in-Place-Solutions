@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedpr0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedpr0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedpr0&label=Profile%20views&color=0e75b6&style=flat" alt="OneTeraByte7" /> </p>
 
 <h3>Trophies</h3>
 
