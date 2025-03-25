@@ -3,6 +3,10 @@
 ## 🎯 Overview
 This repository contains **solutions to all module exercises** from **Stanford's Code in Place** course. Each solution follows best coding practices and is structured for easy understanding.
 
+## 🏆 TROPHIES
+[![trophy](https://github-profile-trophy.vercel.app/?username=OneTeraByte7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 📝 About Code in Place
 [Code in Place](https://codeinplace.stanford.edu/) is a **free online programming course** offered by **Stanford University**, covering fundamental concepts of **Python programming**.
 
