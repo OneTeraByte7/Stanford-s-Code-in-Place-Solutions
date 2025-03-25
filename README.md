@@ -1,15 +1,59 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedpr0&label=Profile%20views&color=0e75b6&style=flat" alt="OneTeraByte7" /> </p>
+# 📘 Stanford Code in Place Solutions
 
-<h3>Trophies</h3>
+## 🎯 Overview
+This repository contains **solutions to all module exercises** from **Stanford's Code in Place** course. Each solution follows best coding practices and is structured for easy understanding.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📝 About Code in Place
+[Code in Place](https://codeinplace.stanford.edu/) is a **free online programming course** offered by **Stanford University**, covering fundamental concepts of **Python programming**.
 
-Here Folks can find the solutions to every problem in Stanford's Code in Place Online Coding Program
-Detailed information can also be found in the same repo
+## 📂 Repository Structure
+📦 CodeInPlace-Solutions 
 
-<h3>Languages:</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
-Python
+┣ 📂 Module 1 # Introduction to Python ┃ 
+
+┣ 📜 problem1.py ┃ 
+
+┣ 📜 problem2.py ┃ 
+
+┗ 📜 ... 
+
+┣ 📂 Module 2 # Control Flow & Functions 
+
+┣ 📂 Module 3 # Loops & Lists 
+
+┣ 📂 Module 4 # Strings & File Handling 
+
+┣ 📂 Module 5 # Object-Oriented Programming
+
+┣ 📂 Module 6 # Final Project Solutions 
+
+┗ 📜 README.md
+
+
+## 🚀 Topics Covered
+✔️ **Variables & Data Types**  
+✔️ **Loops & Conditionals**  
+✔️ **Functions & Recursion**  
+✔️ **Lists, Tuples & Dictionaries**  
+✔️ **File Handling**  
+✔️ **Object-Oriented Programming (OOP)**  
+✔️ **Graphics & Animation (Tkinter, Turtle, etc.)**  
+
+## 🔧 How to Use
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/your-username/CodeInPlace-Solutions.git
+   cd CodeInPlace-Solutions
+```
+```
+
+## 🎓 Why This Repository?
+
+📚 Structured & Well-Documented Solutions
+
+💡 Ideal for Learning & Revision
+
+🔍 Alternative Approaches to Problems
 
 <h3>Acceptance Code in Place 2024</h3> 
 
